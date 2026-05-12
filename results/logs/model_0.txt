@@ -1,0 +1,24 @@
+Epoch: 0 | Train loss: 0.5255 | Train acc: 0.7359% | Val loss: 0.2543 | Val acc: 0.9271%
+Epoch: 1 | Train loss: 0.1996 | Train acc: 0.8767% | Val loss: 0.2173 | Val acc: 0.9280%
+Epoch: 2 | Train loss: 0.1629 | Train acc: 0.8996% | Val loss: 0.3550 | Val acc: 0.8617%
+Epoch: 3 | Train loss: 0.1454 | Train acc: 0.9146% | Val loss: 0.1619 | Val acc: 0.9451%
+Epoch: 4 | Train loss: 0.1348 | Train acc: 0.9196% | Val loss: 0.2437 | Val acc: 0.9110%
+Epoch: 5 | Train loss: 0.1194 | Train acc: 0.9334% | Val loss: 0.2257 | Val acc: 0.9223%
+Epoch: 6 | Train loss: 0.1208 | Train acc: 0.9375% | Val loss: 0.1559 | Val acc: 0.9441%
+Epoch: 7 | Train loss: 0.1129 | Train acc: 0.9377% | Val loss: 0.1750 | Val acc: 0.9375%
+Epoch: 8 | Train loss: 0.0983 | Train acc: 0.9432% | Val loss: 0.1571 | Val acc: 0.9470%
+Epoch: 9 | Train loss: 0.1114 | Train acc: 0.9413% | Val loss: 0.2037 | Val acc: 0.9280%
+Total training time: 729.194 seconds
+
+Doğru Tahmin: 522/624
+Accuracy: 83.65%
+
+
+              precision    recall  f1-score   support
+
+      normal       0.90      0.64      0.74       234
+     opacity       0.81      0.96      0.88       390
+
+    accuracy                           0.84       624
+   macro avg       0.86      0.80      0.81       624
+weighted avg       0.85      0.84      0.83       624
